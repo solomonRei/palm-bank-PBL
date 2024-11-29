@@ -1,0 +1,15 @@
+[submodule "palm-transaction-service"]
+	path = palm-transaction-service
+	url = https://github.com/solomonRei/palm-transactions.git
+[submodule "palm-proxy-service"]
+	path = palm-proxy-service
+	url = https://github.com/solomonRei/palm-proxy-server.git
+[submodule "palm-bff-service"]
+	path = palm-bff-service
+	url = https://github.com/solomonRei/palm-bff.git
+[submodule "palm-fe"]
+	path = palm-fe
+	url = https://github.com/MItan9/palm-ui-test.git
+[submodule "palm-authorization-server"]
+	path = palm-authorization-server
+	url = git@github.com:solomonRei/palm-authorization-server.git
